@@ -24,7 +24,7 @@ a {
   display: block;
 }
 .container {
-  min-width: 320px;
+  min-width: 319px;
   max-width: 1600px;
   margin: 0 auto;
 }
@@ -149,6 +149,7 @@ a {
   align-items: center;
 }
 .mr {
+  margin-right: 8px;
 }
 .all-ms-nav {
   display: none;
