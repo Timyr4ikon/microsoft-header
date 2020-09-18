@@ -29,6 +29,7 @@ a {
   margin: 0 auto;
 }
 .header {
+  outline: 1px solid purple;
   margin: 0 auto;
   height: 54px;
   margin-bottom: 34px;
@@ -149,6 +150,7 @@ a {
   align-items: center;
 }
 .mr {
+  margin-right: 8px;
 }
 .all-ms-nav {
   display: none;
