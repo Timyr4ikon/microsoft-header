@@ -64,6 +64,9 @@ a {
   background-position: center;
   background-repeat: no-repeat;
 }
+.nav-block{
+  display: none;
+}
 .header-shop {
   position: relative;
   width: 48px;
@@ -141,9 +144,6 @@ a {
   background-repeat: no-repeat;
 }
 
-.dn {
-  display: none;
-}
 .df {
   width: 96px;
   display: flex;
