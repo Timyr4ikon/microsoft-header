@@ -16,6 +16,7 @@ body {
   color: black;
   position: relative;
   overflow-x: hidden;
+  background-color: bisque;
 }
 button {
   border: none;
