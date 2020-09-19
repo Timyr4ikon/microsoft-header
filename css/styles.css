@@ -8,6 +8,9 @@ html {
   box-sizing: inherit;
   font-family: inherit;
 }
+*{
+  /* outline: 1px solid red; */
+}
 body {
   font-family: "Segoe UI", "SegoeUI", "Helvetica Neue", "Helvetica", "Arial",
     sans-serif;
@@ -147,7 +150,7 @@ a {
   align-items: center;
 }
 .mr {
-  margin: 4px;
+  margin-right: 4px;
 }
 .all-ms-nav {
   display: none;
