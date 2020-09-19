@@ -15,6 +15,8 @@
         line-height: 1.2;
         font-size: 15px;
         color: black;
+        position: relative;
+overflow-x: hidden;
       }
       button {
         border: none;
@@ -138,7 +140,7 @@
         align-items: center;
       }
       .mr {
-        margin: 4px;
+        margin-right: 4px;
       }
       .all-ms-nav {
         display: none;
