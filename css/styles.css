@@ -8,16 +8,12 @@ html {
   box-sizing: inherit;
   font-family: inherit;
 }
-*{
-  /* outline: 1px solid red; */
-}
 body {
   font-family: "Segoe UI", "SegoeUI", "Helvetica Neue", "Helvetica", "Arial",
     sans-serif;
   line-height: 1.2;
   font-size: 15px;
   color: black;
-  background-color: rgb(165, 109, 41);
 }
 button {
   border: none;
@@ -56,8 +52,8 @@ a {
 .header-search {
   padding: 8px 8px 8px 0;
   margin: 2px 2px 1px 0px;
-  /* margin-left: 4px; */
-  /* margin-right: 6px; */
+  margin-left: 4px;
+  margin-right: 6px;
   height: 34px;
   width: 34px;
   background-image: url("../img/icons8-search.svg");
@@ -146,12 +142,12 @@ a {
 }
 
 .df {
- max-width: 96px;
+  width: 96px;
   display: flex;
   align-items: center;
 }
 .mr {
-  margin-right: 4px;
+  margin: 4px;
 }
 .all-ms-nav {
   display: none;
