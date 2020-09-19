@@ -15,7 +15,7 @@ body {
   line-height: 1.2;
   font-size: 15px;
   color: black;
-  background-color: #e6e6e6;
+  background-color: red;
 }
 button {
   border: none;
@@ -37,10 +37,9 @@ a {
   position: relative;
   padding: 2px 0;
   display: flex;
-  justify-content: space-between;
 }
 .header-burger {
-  width: 44px;
+  width: 48px;
   height: 48px;
   margin: 1px;
   margin-right: 7px;
@@ -68,7 +67,7 @@ a {
 }
 .header-shop {
   position: relative;
-  width: 36px;
+  width: 48px;
   height: 48px;
   margin: 1px;
   margin-right: 12px;
@@ -144,7 +143,7 @@ a {
 }
 
 .df {
-  max-width: 96px;
+  width: 96px;
   display: flex;
   align-items: center;
 }
