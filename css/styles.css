@@ -7,6 +7,7 @@ html {
 *::before {
   box-sizing: inherit;
   font-family: inherit;
+  outline: 1px solid black;
 }
 body {
   font-family: "Segoe UI", "SegoeUI", "Helvetica Neue", "Helvetica", "Arial",
@@ -14,6 +15,7 @@ body {
   line-height: 1.2;
   font-size: 15px;
   color: black;
+  background-color: red;
 }
 button {
   border: none;
