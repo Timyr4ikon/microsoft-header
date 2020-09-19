@@ -25,7 +25,6 @@ a {
   display: block;
 }
 .container {
-  min-width: 319px;
   max-width: 1600px;
   margin: 0 auto;
 }
