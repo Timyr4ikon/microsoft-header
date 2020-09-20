@@ -8,7 +8,7 @@
       *::before {
         box-sizing: inherit;
         font-family: inherit;
-        outline: 2px solid red;
+        /* outline: 2px solid red; */
       }
       body {
         font-family: "Segoe UI", "SegoeUI", "Helvetica Neue", "Helvetica",
