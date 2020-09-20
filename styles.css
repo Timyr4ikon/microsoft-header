@@ -24,6 +24,9 @@
       a {
         display: block;
       }
+      svg{
+        overflow: hidden;
+      }
       .container {
         max-width: 1600px;
         margin: 0 auto;
