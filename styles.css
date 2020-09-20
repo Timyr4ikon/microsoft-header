@@ -96,6 +96,9 @@
         margin-left: 3px;
         font-size: 20px;
         border: none;
+        width: 48px;
+        background-repeat: no-repeat;
+        background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NCA2NCcgc3Ryb2tlPScjNzA3MDcwJz48ZyBjbGFzcz0nbWVjdHJsX3N0cm9rZScgc3Ryb2tlLXdpZHRoPScxLjknIGZpbGw9J25vbmUnPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzMwLjI1Jy8+PGcgdHJhbnNmb3JtPSdtYXRyaXgoMS4xIDAgMCAxLjEgOC44IDUuNjEpJz48Y2lyY2xlIGNsYXNzPSdtZWN0cmxfc3Ryb2tlJyBjeD0nMjAnIGN5PScxNicgcj0nNycvPjxwYXRoIGNsYXNzPSdtZWN0cmxfc3Ryb2tlJyBkPSdNMzAgMzVoMTBtLTUtNXYxME0zMC44MzMgMzIuMDlBMTEgMTEgMCAwMDkgMzQnLz48L2c+PC9nPjwvc3ZnPg==');
       }
       .header-signIn__img {
         width: 32px;
